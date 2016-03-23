@@ -20,10 +20,7 @@ Note:
 2.Scores will be saved in file "cricket_score.txt"
 ---------------------------------------------------------------------
 Author : 
-Prashant Kumar - KF09550
-Pradeep kumar - KF05049
-Team Id 	  - TK097042 
-
+Prashant Kumar 
 _______________________________________________________________
 '''
 
